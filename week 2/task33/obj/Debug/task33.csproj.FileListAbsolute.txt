@@ -1,0 +1,6 @@
+C:\Users\Sony\source\repos\week 2\task33\bin\Debug\task33.exe.config
+C:\Users\Sony\source\repos\week 2\task33\bin\Debug\task33.exe
+C:\Users\Sony\source\repos\week 2\task33\bin\Debug\task33.pdb
+C:\Users\Sony\source\repos\week 2\task33\obj\Debug\task33.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\week 2\task33\obj\Debug\task33.exe
+C:\Users\Sony\source\repos\week 2\task33\obj\Debug\task33.pdb

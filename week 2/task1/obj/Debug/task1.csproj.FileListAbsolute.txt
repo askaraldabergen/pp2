@@ -1,0 +1,6 @@
+C:\Users\Sony\source\repos\week 2\task1\bin\Debug\task1.exe.config
+C:\Users\Sony\source\repos\week 2\task1\bin\Debug\task1.exe
+C:\Users\Sony\source\repos\week 2\task1\bin\Debug\task1.pdb
+C:\Users\Sony\source\repos\week 2\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\week 2\task1\obj\Debug\task1.exe
+C:\Users\Sony\source\repos\week 2\task1\obj\Debug\task1.pdb
